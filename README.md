@@ -1,2 +1,5 @@
 # roguewolf-dev.github.io
-Github New Site
+It's my first Github Site.
+My Self Pranjal Bareth.
+I'll Update Soon.
+
