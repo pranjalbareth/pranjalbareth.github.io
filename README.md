@@ -1,4 +1,4 @@
-# roguewolf-dev.github.io
+# pranjalbareth.github.io
 [Personal Project] - Project: Pranjal Bareth Personal Website
 
 # Summary
